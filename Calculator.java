@@ -9,7 +9,7 @@ public class Calculator {
     }
 
     public static void main(String[] args) {
-        System.out.println("Addition: " + add(5, 10));
-        System.out.println("Multiplication: " + multiply(5, 10));
+        System.out.println("Addition: 5 + 10 = " + add(5, 10));
+        System.out.println("Multiplication: 5 * 10 = " + multiply(5, 10));
     }
 }
